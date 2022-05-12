@@ -7,6 +7,8 @@ module.exports = {
     'cypress/globals': true
   },
   rules: {
-    strict: 'off'
+    strict: 'off',
+    indent: 'off',
+    'no-tabs': 0
   }
 }
